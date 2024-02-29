@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ayush2412Rao/Ayush2412Rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
