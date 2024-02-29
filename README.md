@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1428rao&show_icons=true&theme=gruvbox)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush2412rao&show_icons=true&theme=gruvbox)
 
 <br>
 <br>
