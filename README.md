@@ -1,7 +1,7 @@
 *<h2>Digital Craftsman (Developer)</h2>*
 
 ### Hi there 👋
-🔭 I’m currently working on to Develope Web Projects. 
+🔭 I’m currently working on to Development Web Projects. 
 - 🌱 I’m currently learning JAVA , Nodejs
 - 👯 I’m looking to collaborate on project for Web development
 - 💬 Ask me about anything..
